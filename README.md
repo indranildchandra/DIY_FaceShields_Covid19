@@ -1,17 +1,17 @@
 # 10000 Face Shields For #COVID19 In India
-* [Campaign page](https://www.ketto.org/fundraiser/10000-face-shields-for-covid19-in-india?payment=form)
-* [Makers Asylum Website](https://www.makersasylum.com/)
+* [Campaign page](https://www.ketto.org/donate-face-shields-to-covid-19-warriors-in-india?payment=form)
 
-### THERE ARE THREE VERSIONS ###
-* [ACRYLIC](/Face_Shield_acrylic)
-* [FOAM (Foam Board / Sun Board)](/Face_Shield_FoamBoard_Sun_Board)
-* [OHP Film only](/Face_Shield_OHP_film)
+![Fundraiser](/ketto_fundraiser/COVID19_FaceShield_FundRaiser.jpg)
 
-![Face Shield](/images/makers_asylum_shield_acrylic.jpeg)
-![Face Shield](/images/spec_sheet.jpeg)
 
-## WATCH THE VIDEO
-[![Watch the Video](https://i3.ytimg.com/vi/ZetswSnk8Sk/hqdefault.jpg)](https://www.youtube.com/watch?v=ZetswSnk8Sk)
+![Face Shield](/images/FaceShield_Nagpur.jpg)
+![Face Shield](/images/FaceShield_Mangalore_1.jpg)
+![Face Shield](/images/FaceShield_Mangalore_2.jpg)
+
+
+## DESIGN CREDITS
+[Designs released by Makers Asylum Mumbai were re-used](https://github.com/MakersAsylumIndia/Covid-19)
+
 
 License
 -------
