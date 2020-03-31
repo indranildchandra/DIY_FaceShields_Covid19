@@ -4,12 +4,13 @@
 ![Fundraiser](/ketto_fundraiser/COVID19_FaceShield_FundRaiser.jpg)
 
 
+## Shield Images
 ![Face Shield](/images/FaceShield_Nagpur.jpg)
 ![Face Shield](/images/FaceShield_Mangalore_1.jpg)
 ![Face Shield](/images/FaceShield_Mangalore_2.jpg)
 
 
-## DESIGN CREDITS
+## Design Credits
 [Designs released by Makers Asylum Mumbai were re-used](https://github.com/MakersAsylumIndia/Covid-19)
 
 
